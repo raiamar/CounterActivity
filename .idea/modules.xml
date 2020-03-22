@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CounterActivity.iml" filepath="$PROJECT_DIR$/.idea/CounterActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="counterlifeactivitty/app" />
+      <module fileurl="file://$PROJECT_DIR$/counterlifeactivitty.iml" filepath="$PROJECT_DIR$/counterlifeactivitty.iml" group="counterlifeactivitty" />
+    </modules>
+  </component>
+</project>
